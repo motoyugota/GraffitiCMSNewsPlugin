@@ -1,8 +1,0 @@
-F:\Code\Graffiti Plugins\Graffiti.Plugins.News\Graffiti.Plugins.News\bin\Release\Graffiti.Plugins.News.dll
-F:\Code\Graffiti Plugins\Graffiti.Plugins.News\Graffiti.Plugins.News\bin\Release\Graffiti.Plugins.News.pdb
-F:\Code\Graffiti Plugins\Graffiti.Plugins.News\Graffiti.Plugins.News\bin\Release\DataBuddy.dll
-F:\Code\Graffiti Plugins\Graffiti.Plugins.News\Graffiti.Plugins.News\bin\Release\Graffiti.Core.dll
-F:\Code\Graffiti Plugins\Graffiti.Plugins.News\Graffiti.Plugins.News\bin\Release\NVelocity.dll
-F:\Code\Graffiti Plugins\Graffiti.Plugins.News\Graffiti.Plugins.News\obj\Release\ResolveAssemblyReference.cache
-F:\Code\Graffiti Plugins\Graffiti.Plugins.News\Graffiti.Plugins.News\obj\Release\Graffiti.Plugins.News.dll
-F:\Code\Graffiti Plugins\Graffiti.Plugins.News\Graffiti.Plugins.News\obj\Release\Graffiti.Plugins.News.pdb
