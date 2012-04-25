@@ -1,0 +1,8 @@
+F:\Code\Graffiti Plugins\Graffiti.Plugins.News\Graffiti.Plugins.News\bin\Debug\Graffiti.Plugins.News.dll
+F:\Code\Graffiti Plugins\Graffiti.Plugins.News\Graffiti.Plugins.News\bin\Debug\Graffiti.Plugins.News.pdb
+F:\Code\Graffiti Plugins\Graffiti.Plugins.News\Graffiti.Plugins.News\bin\Debug\DataBuddy.dll
+F:\Code\Graffiti Plugins\Graffiti.Plugins.News\Graffiti.Plugins.News\bin\Debug\Graffiti.Core.dll
+F:\Code\Graffiti Plugins\Graffiti.Plugins.News\Graffiti.Plugins.News\bin\Debug\NVelocity.dll
+F:\Code\Graffiti Plugins\Graffiti.Plugins.News\Graffiti.Plugins.News\obj\Debug\ResolveAssemblyReference.cache
+F:\Code\Graffiti Plugins\Graffiti.Plugins.News\Graffiti.Plugins.News\obj\Debug\Graffiti.Plugins.News.dll
+F:\Code\Graffiti Plugins\Graffiti.Plugins.News\Graffiti.Plugins.News\obj\Debug\Graffiti.Plugins.News.pdb
